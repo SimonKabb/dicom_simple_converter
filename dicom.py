@@ -47,5 +47,4 @@ def search_files():
 
 
 if __name__ == '__main__':
-    # make_video('AKKURATOV1.IMA')
     search_files()
