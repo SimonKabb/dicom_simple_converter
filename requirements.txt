@@ -1,0 +1,9 @@
+altgraph==0.17.3
+macholib==1.16.2
+modulegraph==0.19.3
+numpy==1.21.6
+opencv-python==4.6.0.66
+Pillow==9.3.0
+py2app==0.28.4
+pydicom==2.3.1
+tomli==2.0.1
